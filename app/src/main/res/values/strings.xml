@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3-MediaPlayer</string>
+    <string name="reproducir"><![CDATA[|>]]></string>
+    <string name="atras"><![CDATA[<<]]></string>
+    <string name="adelante"><![CDATA[>>]]></string>
+    <string name="pausar">||</string>
+</resources>
